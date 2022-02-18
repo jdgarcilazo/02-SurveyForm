@@ -35,7 +35,7 @@ body::before {
                 115deg, 
                 rgba(58, 58, 158, 0.8),
                 rgba(136, 136, 206, 0.7)),
-                url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+                url("https://www.freecodecamp.org/news/content/images/size/w2000/2021/11/free-bootcamp-image-updated.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
